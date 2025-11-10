@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Ana Beatriz",
+        "telefone": "(83) 999999999",
+        "email": "anabeatri@gmail.com"
+    },
+    {
+        "nome": "Ana Clara",
+        "telefone": "(83) 999999999",
+        "email": "anaclara@email.com"
+    },
+    {
+        "nome": "Pedro Caio",
+        "telefone": "(83) 999999999",
+        "email": "pc@email.com"
+    },
+    {
+        "nome": "Sophia Costa",
+        "telefone": "(83) 999999999",
+        "email": "sophiacosta@email.com"
+    },
+    {
+        "nome": "Mirella Brito",
+        "telefone": "(83) 999999999",
+        "email": "mirellabrito@email.com"
+    }
+]
